@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+
+# Downloaded HLS videos and temporary segments
+downloads/
+*.ts
+*.mp4
+*.part
